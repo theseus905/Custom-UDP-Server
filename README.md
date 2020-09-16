@@ -1,5 +1,5 @@
 
-### This is a basic Python UDP Server. 
+### Basic Python UDP Server. 
 ##### It simply parses and verifies packets. This script, however, does not fully follow the conventional UDP packet structure. 
 
 ```4 Bytes Packet ID
